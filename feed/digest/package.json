@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ethereumjs-tx": "^1.3.7",
-    "web3": "^1.0.0-beta.36"
+    "elliptic": "^6.4.1",
+    "js-sha3": "^0.8.0"
   }
 }
